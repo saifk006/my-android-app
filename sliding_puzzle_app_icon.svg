@@ -1,0 +1,90 @@
+<svg width="100%" viewBox="0 0 680 720" role="img" xmlns="http://www.w3.org/2000/svg" style="">
+  <title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Sliding Tile Puzzle app icon</title>
+  <desc style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">A vibrant app icon showing a 3x3 sliding tile puzzle grid with a missing tile, bold numbers, and a colorful modern design</desc>
+
+  <defs>
+    <clipPath id="iconClip">
+      <rect x="140" y="40" width="400" height="400" rx="88"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect x="140" y="40" width="400" height="400" rx="88" fill="#1a1a2e" style="fill:rgb(26, 26, 46);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Background subtle grid lines -->
+  <line x1="140" y1="173" x2="540" y2="173" stroke="#ffffff" stroke-width="0.5" opacity="0.06" clip-path="url(#iconClip)" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(255, 255, 255);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.06;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <line x1="140" y1="307" x2="540" y2="307" stroke="#ffffff" stroke-width="0.5" opacity="0.06" clip-path="url(#iconClip)" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(255, 255, 255);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.06;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <line x1="273" y1="40" x2="273" y2="440" stroke="#ffffff" stroke-width="0.5" opacity="0.06" clip-path="url(#iconClip)" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(255, 255, 255);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.06;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <line x1="407" y1="40" x2="407" y2="440" stroke="#ffffff" stroke-width="0.5" opacity="0.06" clip-path="url(#iconClip)" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(255, 255, 255);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.06;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Puzzle grid container -->
+  <rect x="175" y="75" width="330" height="330" rx="20" fill="#16213e" clip-path="url(#iconClip)" style="fill:rgb(22, 33, 62);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Tile gap = 10px, tile size = 96px, grid starts at 185,85 -->
+
+  <!-- Row 1 -->
+  <!-- Tile 1 - Blue -->
+  <rect x="185" y="85" width="96" height="96" rx="14" fill="#4361ee" style="fill:rgb(67, 97, 238);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="233" y="148" text-anchor="middle" font-family="Georgia, serif" font-size="44" font-weight="700" fill="#ffffff" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Georgia, serif;font-size:44px;font-weight:700;text-anchor:middle;dominant-baseline:auto">1</text>
+
+  <!-- Tile 2 - Purple -->
+  <rect x="291" y="85" width="96" height="96" rx="14" fill="#7209b7" style="fill:rgb(114, 9, 183);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="339" y="148" text-anchor="middle" font-family="Georgia, serif" font-size="44" font-weight="700" fill="#ffffff" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Georgia, serif;font-size:44px;font-weight:700;text-anchor:middle;dominant-baseline:auto">2</text>
+
+  <!-- Tile 3 - Teal -->
+  <rect x="397" y="85" width="96" height="96" rx="14" fill="#0096c7" style="fill:rgb(0, 150, 199);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="445" y="148" text-anchor="middle" font-family="Georgia, serif" font-size="44" font-weight="700" fill="#ffffff" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Georgia, serif;font-size:44px;font-weight:700;text-anchor:middle;dominant-baseline:auto">3</text>
+
+  <!-- Row 2 -->
+  <!-- Tile 4 - Orange -->
+  <rect x="185" y="191" width="96" height="96" rx="14" fill="#f77f00" style="fill:rgb(247, 127, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="233" y="254" text-anchor="middle" font-family="Georgia, serif" font-size="44" font-weight="700" fill="#ffffff" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Georgia, serif;font-size:44px;font-weight:700;text-anchor:middle;dominant-baseline:auto">4</text>
+
+  <!-- Tile 5 - Pink -->
+  <rect x="291" y="191" width="96" height="96" rx="14" fill="#e63946" style="fill:rgb(230, 57, 70);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="339" y="254" text-anchor="middle" font-family="Georgia, serif" font-size="44" font-weight="700" fill="#ffffff" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Georgia, serif;font-size:44px;font-weight:700;text-anchor:middle;dominant-baseline:auto">5</text>
+
+  <!-- Tile 6 - Green -->
+  <rect x="397" y="191" width="96" height="96" rx="14" fill="#2dc653" style="fill:rgb(45, 198, 83);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="445" y="254" text-anchor="middle" font-family="Georgia, serif" font-size="44" font-weight="700" fill="#ffffff" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Georgia, serif;font-size:44px;font-weight:700;text-anchor:middle;dominant-baseline:auto">6</text>
+
+  <!-- Row 3 -->
+  <!-- Tile 7 - Amber -->
+  <rect x="185" y="297" width="96" height="96" rx="14" fill="#f4a261" style="fill:rgb(244, 162, 97);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="233" y="360" text-anchor="middle" font-family="Georgia, serif" font-size="44" font-weight="700" fill="#ffffff" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Georgia, serif;font-size:44px;font-weight:700;text-anchor:middle;dominant-baseline:auto">7</text>
+
+  <!-- Tile 8 - Cyan -->
+  <rect x="291" y="297" width="96" height="96" rx="14" fill="#118ab2" style="fill:rgb(17, 138, 178);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="339" y="360" text-anchor="middle" font-family="Georgia, serif" font-size="44" font-weight="700" fill="#ffffff" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Georgia, serif;font-size:44px;font-weight:700;text-anchor:middle;dominant-baseline:auto">8</text>
+
+  <!-- Empty tile slot (missing piece) -->
+  <rect x="397" y="297" width="96" height="96" rx="14" fill="#0d1b2a" stroke="#ffffff" stroke-width="1.5" stroke-dasharray="8,5" opacity="0.5" style="fill:rgb(13, 27, 42);stroke:rgb(255, 255, 255);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-dasharray:8px, 5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.5;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Arrow hint in empty slot -->
+  <text x="445" y="358" text-anchor="middle" font-family="Arial" font-size="36" fill="#ffffff" opacity="0.4" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.4;font-family:Arial;font-size:36px;font-weight:400;text-anchor:middle;dominant-baseline:auto">↙</text>
+
+  <!-- Glow dot accent top right -->
+  <circle cx="510" cy="70" r="18" fill="#4361ee" opacity="0.25" clip-path="url(#iconClip)" style="fill:rgb(67, 97, 238);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.25;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <circle cx="510" cy="70" r="9" fill="#4361ee" opacity="0.5" clip-path="url(#iconClip)" style="fill:rgb(67, 97, 238);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.5;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- App name below icon -->
+  <text x="340" y="498" text-anchor="middle" font-family="Georgia, serif" font-size="30" font-weight="700" fill="#1a1a2e" style="fill:rgb(26, 26, 46);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Georgia, serif;font-size:30px;font-weight:700;text-anchor:middle;dominant-baseline:auto">PuzzleSlide</text>
+  <text x="340" y="530" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#888" style="fill:rgb(136, 136, 136);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Arial, sans-serif;font-size:15px;font-weight:400;text-anchor:middle;dominant-baseline:auto">Sliding Tile Puzzle Game</text>
+
+  <!-- Tagline -->
+  <text x="340" y="562" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#aaa" opacity="0.8" style="fill:rgb(170, 170, 170);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.8;font-family:Arial, sans-serif;font-size:13px;font-weight:400;text-anchor:middle;dominant-baseline:auto">Train your brain · Beat your best</text>
+
+  <!-- Difficulty badges -->
+  <rect x="210" y="580" width="60" height="26" rx="13" fill="#4361ee" opacity="0.15" style="fill:rgb(67, 97, 238);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.15;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="240" y="597" text-anchor="middle" font-family="Arial" font-size="12" fill="#4361ee" style="fill:rgb(67, 97, 238);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Arial;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto">3x3</text>
+
+  <rect x="280" y="580" width="60" height="26" rx="13" fill="#7209b7" opacity="0.15" style="fill:rgb(114, 9, 183);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.15;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="310" y="597" text-anchor="middle" font-family="Arial" font-size="12" fill="#7209b7" style="fill:rgb(114, 9, 183);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Arial;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto">4x4</text>
+
+  <rect x="350" y="580" width="60" height="26" rx="13" fill="#e63946" opacity="0.15" style="fill:rgb(230, 57, 70);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.15;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="380" y="597" text-anchor="middle" font-family="Arial" font-size="12" fill="#e63946" style="fill:rgb(230, 57, 70);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Arial;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto">5x5</text>
+
+  <rect x="420" y="580" width="60" height="26" rx="13" fill="#2dc653" opacity="0.15" style="fill:rgb(45, 198, 83);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.15;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="450" y="597" text-anchor="middle" font-family="Arial" font-size="12" fill="#2dc653" style="fill:rgb(45, 198, 83);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Arial;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto">Free</text>
+
+</svg>
